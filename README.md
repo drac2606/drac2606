@@ -6,10 +6,10 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: Dario
+* Nombre: Dario Anchundia
 * Ocupación: Estudiante
 * Lugar de residencia: Milagro
-* Sitio web: instagram.com/eldoktor024
+* Sitio web: https://drac2606.github.io/drac2606/
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
